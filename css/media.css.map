@@ -1,0 +1,1 @@
+{"version":3,"file":"media.css","sources":["media.scss"],"sourcesContent":["@media(min-width:320px) and (max-width:425px) {\r\n    h2 {\r\n        font-size: 28px !important;\r\n    }\r\n}"],"names":[],"mappings":"AAAA,MAAM,EAAC,SAAS,EAAE,KAAK,OAAO,SAAS,EAAE,KAAK;EAC1C,AAAA,EAAE,CAAC;IACC,SAAS,EAAE,eAAe,GAC7B"}
